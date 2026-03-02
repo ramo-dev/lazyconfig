@@ -14,7 +14,6 @@
 
 ## Features
 
-- **Startup Screen** — ASCII GROOVY banner on launch
 - **AI Copilot** — Ghost-text suggestions that actually read your mind
 - **Fuzzy Finding** — Telescope with FZF-native. Ctrl+p to find, leader/ to grep
 - **Transparent UI** — Float like a butterfly, sting like a bee
